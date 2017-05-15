@@ -1,1 +1,1 @@
-# Animaci-n-simple-con-Qt
+# Animacion-simple-con-Qt
